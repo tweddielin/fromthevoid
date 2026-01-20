@@ -55,7 +55,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="absolute bottom-8 text-center">
         <p className="text-xs text-white/30">
-          &copy; {new Date().getFullYear()}From The Void. All rights reserved.
+          &copy; {new Date().getFullYear()} From The Void. All rights reserved.
         </p>
       </footer>
     </main>

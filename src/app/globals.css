@@ -2,9 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: 'AuxMono';
+  src: url('/fonts/AuxMono-Regular.woff2') format('woff2'),
+       url('/fonts/AuxMono-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 :root {
   --foreground: #ffffff;
   --background: #000000;
+  --font-aux-mono: 'AuxMono', monospace;
 }
 
 body {
