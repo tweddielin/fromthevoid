@@ -29,7 +29,7 @@ export default function Home() {
         </h1>
         
         <p className="text-lg md:text-xl text-white/60 mb-12 tracking-wide">
-          From the void, we create.
+          From The Void.
         </p>
 
         {/* Divider */}
@@ -55,7 +55,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="absolute bottom-8 text-center">
         <p className="text-xs text-white/30">
-          &copy; {new Date().getFullYear()} The Void. All rights reserved.
+          &copy; {new Date().getFullYear()}From The Void. All rights reserved.
         </p>
       </footer>
     </main>
