@@ -3,11 +3,11 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'The Void | Music Label',
-  description: 'The Void - An independent music label. From the void, we create.',
+  description: 'The Void - An independent music label.',
   keywords: ['music label', 'independent music', 'The Void', 'electronic music'],
   openGraph: {
     title: 'The Void | Music Label',
-    description: 'From the void, we create.',
+    description: 'Create from The Void',
     url: 'https://fromthevoid.space',
     siteName: 'The Void',
     type: 'website',
